@@ -19,7 +19,7 @@ The implementation includes:
 ## Presentation
 A presentation explaining the concept and implementation is also included:
 
-<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/76b8c145-1fe2-400d-9479-fb40d0fb2b32" />
+<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/b7d7d996-c5f1-4919-a630-71beb888f5e1" />
 <img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/439c6b31-ab5d-4ae8-8c7d-f1485d4f48d1" />
 <img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/a71550b2-71ce-47b5-889d-da809e3e31e1" />
 <img width="1920" height="1080" alt="4" src="https://github.com/user-attachments/assets/5e4dcddd-7bb4-47fc-85d9-ec0c292b912c" />
