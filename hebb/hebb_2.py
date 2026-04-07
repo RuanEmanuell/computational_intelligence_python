@@ -16,15 +16,15 @@ def train_hebb(name, inputs, targets):
         w2 = w2 + (x2 * y)
         bias = bias + y 
         
-        print("Sample: Updated weights: ", i+1, w1, w2, bias)
+        print("Sample: Updated weights: ", w1, w2, bias)
         
     print("\n Test:")
 
     for i in range (4):
-        sum = (inputs[i][0] * w1) + (inputs[i][1] * w2) + bias
+        amount = (inputs[i][0] * w1) + (inputs[i][1] * w2) + bias
         prediction = 0
         
-        if sum > 0: 
+        if amount >= 0: 
             prediction = 1
         else: 
             prediction = -1
